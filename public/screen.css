@@ -7,3 +7,12 @@ body {
   min-height: 100%;
   font: 16px / 1 sans-serif;
 }
+
+.minefield {
+  line-height:0;
+  border-spacing:0;
+}
+
+.minefield td {
+  padding:0
+}
